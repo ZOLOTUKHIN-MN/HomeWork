@@ -1,0 +1,15 @@
+C:\Users\HYPERPC\Documents\Projects\Dijital-master\Code\Homework\CW\obj\Debug\net6.0\CW.csproj.AssemblyReference.cache
+C:\Users\HYPERPC\Documents\Projects\Dijital-master\Code\Homework\CW\obj\Debug\net6.0\CW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HYPERPC\Documents\Projects\Dijital-master\Code\Homework\CW\obj\Debug\net6.0\CW.AssemblyInfoInputs.cache
+C:\Users\HYPERPC\Documents\Projects\Dijital-master\Code\Homework\CW\obj\Debug\net6.0\CW.AssemblyInfo.cs
+C:\Users\HYPERPC\Documents\Projects\Dijital-master\Code\Homework\CW\obj\Debug\net6.0\CW.csproj.CoreCompileInputs.cache
+C:\Users\HYPERPC\Documents\Projects\Dijital-master\Code\Homework\CW\bin\Debug\net6.0\CW.exe
+C:\Users\HYPERPC\Documents\Projects\Dijital-master\Code\Homework\CW\bin\Debug\net6.0\CW.deps.json
+C:\Users\HYPERPC\Documents\Projects\Dijital-master\Code\Homework\CW\bin\Debug\net6.0\CW.runtimeconfig.json
+C:\Users\HYPERPC\Documents\Projects\Dijital-master\Code\Homework\CW\bin\Debug\net6.0\CW.dll
+C:\Users\HYPERPC\Documents\Projects\Dijital-master\Code\Homework\CW\bin\Debug\net6.0\CW.pdb
+C:\Users\HYPERPC\Documents\Projects\Dijital-master\Code\Homework\CW\obj\Debug\net6.0\CW.dll
+C:\Users\HYPERPC\Documents\Projects\Dijital-master\Code\Homework\CW\obj\Debug\net6.0\refint\CW.dll
+C:\Users\HYPERPC\Documents\Projects\Dijital-master\Code\Homework\CW\obj\Debug\net6.0\CW.pdb
+C:\Users\HYPERPC\Documents\Projects\Dijital-master\Code\Homework\CW\obj\Debug\net6.0\CW.genruntimeconfig.cache
+C:\Users\HYPERPC\Documents\Projects\Dijital-master\Code\Homework\CW\obj\Debug\net6.0\ref\CW.dll
